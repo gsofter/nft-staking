@@ -1,5 +1,9 @@
 # Solidity Template
 
+- contructor(nftContractAddress)
+- stake(tokenId): payable
+- withdraw()
+
 My favorite setup for writing Solidity smart contracts.
 
 - [Hardhat](https://github.com/nomiclabs/hardhat): compile and run the smart contracts on a local development network
